@@ -12,7 +12,7 @@ class Person
         int area = GetArea(10, 5);
 
         Console.WriteLine(area);
-        //.
+        //...
 
     }
 
